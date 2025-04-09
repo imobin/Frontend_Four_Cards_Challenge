@@ -13,6 +13,5 @@ Great thanks to frontendmentor where I took the project form: (https://www.front
 
 ## 📌 Highlights
 - Practiced responsive layout with Tailwind’s grid system
-- Organized image assets in the `images/` folder
 - Deployed via GitHub Pages
 
